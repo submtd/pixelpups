@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[80671,[],"ClientPageRoot"]
+3:I[14699,["1426","static/chunks/2c344fa8-81b7e7d32bfdd7a9.js","3544","static/chunks/c5abe085-2c96ae9e5aa1edf6.js","1319","static/chunks/e5af35b9-21f0ef97ff691b00.js","5355","static/chunks/7c09d4dc-dabe2fc7e3f9e63b.js","8382","static/chunks/8382-67a550b480b39d19.js","5587","static/chunks/5587-39729c3292027d16.js","648","static/chunks/648-ece6696a111b0f72.js","3095","static/chunks/3095-fd44eb4435411fc4.js","1268","static/chunks/1268-f2377cdd47b1f8d4.js","8974","static/chunks/app/page-b3783d66d9f7697e.js"],"default"]
+6:I[30887,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[30887,[],"ViewportBoundary"]
+c:I[30887,[],"MetadataBoundary"]
+e:I[3017,["1426","static/chunks/2c344fa8-81b7e7d32bfdd7a9.js","3544","static/chunks/c5abe085-2c96ae9e5aa1edf6.js","1319","static/chunks/e5af35b9-21f0ef97ff691b00.js","5355","static/chunks/7c09d4dc-dabe2fc7e3f9e63b.js","8382","static/chunks/8382-67a550b480b39d19.js","5587","static/chunks/5587-39729c3292027d16.js","7029","static/chunks/7029-fd8d0d2af2efc57e.js","648","static/chunks/648-ece6696a111b0f72.js","3095","static/chunks/3095-fd44eb4435411fc4.js","7177","static/chunks/app/layout-88eb94f4d9ab3359.js"],"Providers"]
+f:I[32681,["1426","static/chunks/2c344fa8-81b7e7d32bfdd7a9.js","3544","static/chunks/c5abe085-2c96ae9e5aa1edf6.js","1319","static/chunks/e5af35b9-21f0ef97ff691b00.js","5355","static/chunks/7c09d4dc-dabe2fc7e3f9e63b.js","8382","static/chunks/8382-67a550b480b39d19.js","5587","static/chunks/5587-39729c3292027d16.js","7029","static/chunks/7029-fd8d0d2af2efc57e.js","648","static/chunks/648-ece6696a111b0f72.js","3095","static/chunks/3095-fd44eb4435411fc4.js","7177","static/chunks/app/layout-88eb94f4d9ab3359.js"],"Header"]
+10:I[99630,[],""]
+11:I[1380,[],""]
+:HL["/pixelpups/_next/static/css/b7ea5d0c466ff5d3.css","style"]
+a:X
+0:{"buildId":"DTceCCjEhGmlweb8QeGLn","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#16141c"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"PixelPups — mint a pixel pup"}],["$","meta","1",{"name":"description","content":"Mint a $5 pixel pup. Traits rolled by ORAO VRF; keep it as an NFT or sell it back at a guaranteed price."}]]}]}]}],null]}],"isPartial":"$@d","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/pixelpups/_next/static/css/b7ea5d0c466ff5d3.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$Le",null,{"children":[["$","$Lf",null,{}],["$","main",null,{"id":"main","children":["$","$L10",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]]}]}]]}],"isPartial":"$@12","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+4:{}
+5:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
+a:300
+14:true
+a:C
+13:0
+d:"$undefined"
+12:"$undefined"
+9:"$undefined"
